@@ -7,5 +7,5 @@ cd Lasakransom
 ```
 ```
 sudo bash install.sh
-```
-&& python3 sara.py
+
+python3 sara.py
